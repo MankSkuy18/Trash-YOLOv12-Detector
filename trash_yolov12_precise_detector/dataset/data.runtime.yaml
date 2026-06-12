@@ -1,0 +1,9 @@
+path: C:/Users/Faishal/Documents/Codex/2026-05-07/files-mentioned-by-the-user-new/trash_yolov12_precise_detector/dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: organic
+  1: anorganic
+  2: B3

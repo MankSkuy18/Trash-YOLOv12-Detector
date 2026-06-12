@@ -1,0 +1,17 @@
+{
+  "train": {
+    "organic": 677,
+    "anorganic": 3124,
+    "B3": 195
+  },
+  "val": {
+    "organic": 84,
+    "anorganic": 390,
+    "B3": 24
+  },
+  "test": {
+    "organic": 86,
+    "anorganic": 391,
+    "B3": 25
+  }
+}
